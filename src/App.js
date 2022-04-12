@@ -15,9 +15,9 @@ const App = () => {
     >
       <img src={logo} style={{width: "100px"}} alt="Quality Logo"/>
       <h1 style={{ color: "#6EC177", margin: 0 }}>
-        Quality Financial Dashboard.
+        Quality Financial Dashboard Example.
       </h1>
-      <p>an example</p>
+      <p></p>
     </div>
   );
 };
