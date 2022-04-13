@@ -17,7 +17,7 @@ const App = () => {
       <h1 style={{ color: "#6EC177", margin: 0 }}>
         Quality Financial Dashboard...
       </h1>
-      <p>an example...</p>
+      <p>an example testing</p>
     </div>
   );
 };
